@@ -7,3 +7,7 @@ I did Some Optimizations by just rendering the upper layer
 For Now I am its just a 100x100 grid 
 Note:-  Unity is very powerful
 
+Not To Run:
+Extract The RAR file
+Run Voxel.exe
+ALT+F4 to exit :)
