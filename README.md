@@ -8,6 +8,6 @@ For Now I am its just a 100x100 grid
 Note:-  Unity is very powerful
 
 Note To Run this prototype:
-Extract The RAR file
+Extract The Latest RAR file (Example 4.1)
 Run Voxel.exe
 ALT+F4 to exit :)
